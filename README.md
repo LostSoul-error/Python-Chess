@@ -94,7 +94,7 @@ pip install pygame
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/python-chess
+git clone https://github.com/LostSoul-error/Python-Chess
 cd python-chess
 ```
 
